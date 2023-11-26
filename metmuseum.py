@@ -9,7 +9,7 @@ except (ModuleNotFoundError, ImportError):
     exit(1)
 
 KEYWORDS = ["q", "isHighlight", "title", "tags", "departmentId", "isOnView", "artistOrCulture",
-			"medium", "hasImages", "getLocation", "dateBegin", "dateEnd"]
+			"medium", "hasImages", "geoLocation", "dateBegin", "dateEnd"]
 
 BASE_URL = "https://collectionapi.metmuseum.org/public/collection/v1/"
 CLIENT = httpx.AsyncClient()
@@ -113,7 +113,7 @@ async def fetch(**kwargs):
 			else:
 				url += str(kwargs[i])
 
-		if type(kwargs[i])==bool:
+		elif type(kwargs[i])==bool:
 			kwargs[i] = str(kwargs[i]).lower()
 
 		else:

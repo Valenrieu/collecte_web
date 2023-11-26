@@ -15,16 +15,16 @@ async def fetch_data():
 	cprint(f"{time.strftime('%X')}", "light_cyan", end="")
 	print(" Envoi des requetes")
 
-	# Recuperer les objets des collections peintures europeennes, sculptures europeennes
-	# et art greco-romain
-	a = await metmuseum.fetch_objects(departmentIds=[11])
-	requests_number = a["total"]
+	# Recuperer les id des objets appartenant aux departements
+	# peintures europeennes, et art decoratif europeen
+	ids = await metmuseum.fetch_objects(departmentIds=[11, 12])
+	requests_number = ids["total"]
 	print("Requete ", end="")
 	cprint("0", "light_yellow", end="")
 	print("/", end="")
 	cprint(f"{str(requests_number)}", "light_magenta", end="")
 
-	for id in a["objectIDs"]:
+	for id in ids["objectIDs"]:
 		if REQUEST_COUNTER==REQUEST_LIMIT:
 			print("\rRequete ", end="")
 			cprint(f"{requests_counter}", "light_yellow", end="")
@@ -49,7 +49,7 @@ async def fetch_data():
 
 	print()
 	cprint(f"{time.strftime('%X')}", "light_cyan", end="")
-	print(" Exportation du fichier vers /shiny/data.csv")
+	print(" Exportation des donnees vers /shiny/data.csv")
 	df = pd.json_normalize(res)
 	df.to_csv("./shiny/data.csv", index=False, encoding="utf-8")
 
