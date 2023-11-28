@@ -10,7 +10,6 @@ except (ModuleNotFoundError, ImportError):
 
 KEYWORDS = ["q", "isHighlight", "title", "tags", "departmentId", "isOnView", "artistOrCulture",
 			"medium", "hasImages", "geoLocation", "dateBegin", "dateEnd"]
-
 BASE_URL = "https://collectionapi.metmuseum.org/public/collection/v1/"
 CLIENT = httpx.AsyncClient()
 
@@ -50,18 +49,14 @@ async def fetch_objects(metadataDate=None, departmentIds=None):
     resp = await CLIENT.get(url)
     return resp.json()
 
+# Je ne renvoie pas de message d'erreur si l'id n'est pas bon car
+# la requete search renvoie de faux ids. Je ne peux pas utiliser
+# une exception pour gerer chaque requete car elles sont envoyees
+# en meme temps.
+
 async def fetch_object(id):
     resp = await CLIENT.get(BASE_URL+f"objects/{str(id)}")
-    res = resp.json()
-
-    # Tester si l'id est valide
-
-    try:
-        message = res["message"]
-        raise ValueError(f"{str(id)} is not a valid id.")
-
-    except KeyError:
-        return res
+    return resp.json()
 
 async def fetch_departments(department=None):
 	resp = await CLIENT.get(BASE_URL+"departments")

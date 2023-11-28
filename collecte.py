@@ -4,20 +4,23 @@ import asyncio
 import pandas as pd
 from termcolor import cprint
 
-REQUEST_COUNTER = 0
 REQUEST_LIMIT = 80
 
+def clean_data_frame(df):
+	df.dropna(subset=["objectID"], inplace=True)
+
 async def fetch_data():
-	global REQUEST_COUNTER
+	request_counter = 0
 	tasks = []
 	res = []
 	requests_counter = 0
 	cprint(f"{time.strftime('%X')}", "light_cyan", end="")
 	print(" Envoi des requetes")
 
-	# Recuperer les id des objets appartenant aux departements
-	# peintures europeennes, et art decoratif europeen
-	ids = await metmuseum.fetch_objects(departmentIds=[11, 12])
+	# Recupere les id des peintures crees en Europe
+	# Je n'ai pas utilise le departement peintures europeennes
+	# car certaines peintures appartiennent a d'autres departements
+	ids = await metmuseum.fetch(geoLocation="Europe", medium="Paintings", q="\"\"")
 	requests_number = ids["total"]
 	print("Requete ", end="")
 	cprint("0", "light_yellow", end="")
@@ -25,7 +28,7 @@ async def fetch_data():
 	cprint(f"{str(requests_number)}", "light_magenta", end="")
 
 	for id in ids["objectIDs"]:
-		if REQUEST_COUNTER==REQUEST_LIMIT:
+		if request_counter==REQUEST_LIMIT:
 			print("\rRequete ", end="")
 			cprint(f"{requests_counter}", "light_yellow", end="")
 			print("/", end="")
@@ -33,12 +36,12 @@ async def fetch_data():
 
 			res += await asyncio.gather(*tasks)
 			time.sleep(1.2)
-			REQUEST_COUNTER = 0
+			request_counter = 0
 			tasks = []
 
 		tasks.append(asyncio.ensure_future(metmuseum.fetch_object(id)))
 		requests_counter += 1
-		REQUEST_COUNTER += 1
+		request_counter += 1
 
 	if requests_number % REQUEST_LIMIT != 0:
 		print("\rRequete ", end="")
@@ -49,14 +52,16 @@ async def fetch_data():
 
 	print()
 	cprint(f"{time.strftime('%X')}", "light_cyan", end="")
-	print(" Exportation des donnees vers /shiny/data.csv")
+	print(" Exportation des donnees vers shiny/data.csv")
+
 	df = pd.json_normalize(res)
+	clean_data_frame(df)
 	df.to_csv("./shiny/data.csv", index=False, encoding="utf-8")
 
 async def main():
 	beginning_time = time.time()
 	print("===== Collecte de donnees sur ", end="")
-	cprint("https://www.metmuseum.org", "green", end="")
+	cprint("https://www.metmuseum.org", "light_green", end="")
 	print(" =====")
 
 	task1 = asyncio.create_task(fetch_data())

@@ -1,7 +1,7 @@
 from shiny import ui
+from shinywidgets import *
 
 app_ui = ui.page_fluid(
-    ui.panel_title("Hello Shiny!"),
-    ui.input_slider("n", "N", 0, 100, 20),
-    ui.output_text_verbatim("txt"),
+	ui.panel_title("Test"),
+	output_widget("map")
 )
