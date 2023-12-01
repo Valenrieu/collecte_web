@@ -2,4 +2,5 @@ shiny
 shinywidgets
 pandas
 matplotlib
-ipyleaflet
+plotly
+wordcloud

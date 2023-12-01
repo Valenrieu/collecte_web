@@ -2,14 +2,19 @@ import metmuseum
 import time
 import asyncio
 import pandas as pd
+from nettoyage import clean
 from termcolor import cprint
 
 REQUEST_LIMIT = 80
 
-def clean_data_frame(df):
-	df.dropna(subset=["objectID"], inplace=True)
+def compute_remaining_time(beginning_time, nrequests, max_requests):
+	ttime = time.time()
+	elapsed_time = ttime - beginning_time
+	avg_time = elapsed_time/nrequests
+	return (max_requests - nrequests)*avg_time
 
 async def fetch_data():
+	beginning_time = time.time()
 	request_counter = 0
 	tasks = []
 	res = []
@@ -33,6 +38,11 @@ async def fetch_data():
 			cprint(f"{requests_counter}", "light_yellow", end="")
 			print("/", end="")
 			cprint(f"{str(requests_number)}", "light_magenta", end="")
+			print(" | Temps restant estime ", end="")
+			remaining_time = time.gmtime(compute_remaining_time(beginning_time,
+																requests_counter, requests_number))
+			cprint(f"{time.strftime('%M:%S', remaining_time)}", "light_red", end="")
+			print(" min", end="")
 
 			res += await asyncio.gather(*tasks)
 			time.sleep(1.2)
@@ -48,15 +58,21 @@ async def fetch_data():
 		cprint(f"{requests_counter}", "light_yellow", end="")
 		print("/", end="")
 		cprint(f"{str(requests_number)}", "light_magenta", end="")
+		print(" | Temps restant estime ", end="")
+		remaining_time = time.gmtime(compute_remaining_time(beginning_time,
+									 requests_counter, requests_number))
+		cprint(f"{time.strftime('%M:%S', remaining_time)}", "light_red", end="")
+		print(" min", end="")
+
 		res += await asyncio.gather(*tasks)
 
 	print()
 	cprint(f"{time.strftime('%X')}", "light_cyan", end="")
-	print(" Exportation des donnees vers shiny/data.csv")
+	print(" Exportation des donnees vers shiny/data/data.csv")
 
-	df = pd.json_normalize(res)
-	clean_data_frame(df)
-	df.to_csv("./shiny/data.csv", index=False, encoding="utf-8")
+	data_frame = pd.json_normalize(res)
+	data_frame = clean(data_frame)
+	data_frame.to_csv("./shiny/data/data.csv", index=False, encoding="utf-8")
 
 async def main():
 	beginning_time = time.time()
@@ -70,7 +86,7 @@ async def main():
 	if task1.done():
 		elapsed_time = time.gmtime(time.time()-beginning_time)
 		print(f"Temps d'execution : ", end="")
-		cprint(f"{time.strftime('%M:%S', elapsed_time)}", "red")
+		cprint(f"{time.strftime('%M:%S', elapsed_time)}", "light_red")
 
 		await metmuseum.close_session()
 
