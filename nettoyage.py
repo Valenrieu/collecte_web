@@ -46,11 +46,13 @@ def complete_values(row):
 
 def drop_rows(df):
 	invalid_countries = [None, "Japan", "Canada", "Brazil", "South Africa",
-						 "Argentina", "Undefined", "China", "United States"]
+						 "Argentina", "Undefined", "China", "United States",
+						 ""]
 
 	df.dropna(subset=["country"], inplace=True)
 	indexes = df[df['country'].isin(invalid_countries)].index
 	df.drop(indexes, inplace=True)
+	return df
 
 def delete_tags(df):
 	df = df[["objectID", "isHighlight", "accessionYear", "isPublicDomain",
@@ -65,7 +67,7 @@ def clean(df):
 	df.dropna(subset=["objectID"], inplace=True)
 	df = delete_columns(df)
 	df = df.apply(complete_values, axis=1)
-	drop_rows(df)
+	df = drop_rows(df)
 	df["constructionTime"] = df["objectEndDate"] - df["objectBeginDate"]
 	df["terms"] = float("NaN")
 	df = df.apply(extract_tags, axis=1)

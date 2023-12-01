@@ -13,13 +13,11 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 483515.0,False,1984,False,Painting,Marc Chagall,French,Homme,1917.0,1917.0,France,"['Buildings', 'Towns']",0.0
 483330.0,False,1984,False,Painting,Henri Matisse,French,Homme,1921.0,1922.0,France,"['Fruit', 'Bottles', 'Fish']",1.0
 486839.0,False,1997,False,Painting,Georges Braque,French,Homme,1910.0,1910.0,France,"['Playing Cards', 'Still Life']",0.0
-459206.0,True,1975,True,Tondo mirror frame,"Italian, Siena",,Homme,1487.0,1503.0,,"['Birds', 'Coat of Arms']",16.0
 436295.0,False,1910,True,Painting,Henri Fantin-Latour,French,Homme,1885.0,1885.0,France,"['Portraits', 'Women']",0.0
 492277.0,False,2001,False,Painting,Louis Süe,French,Homme,1897.0,1897.0,France,"['Men', 'Portraits', 'Drinking Glasses', 'Bottles']",0.0
 485302.0,True,1989,False,Painting,David Hockney,British,Homme,1988.0,1988.0,United Kingdom,"['Interiors', 'Abstraction']",0.0
 437169.0,False,1920,False,Painting,Alphonse Mucha,Czech,Homme,1909.0,1909.0,Czech Republic,"['Women', 'Actresses', 'Joan of Arc']",0.0
 436116.0,False,1887,True,Painting,Alexandre-Gabriel Decamps,French,Homme,1823.0,1860.0,France,"['Horses', 'Military', 'Weapons', 'Men', 'Orientalist']",37.0
-193814.0,False,1917,True,"Snuffbox, painting",Jean Georges (or George),,Homme,1756.0,1766.0,,['Putti'],10.0
 490750.0,False,1999,False,Painting,Maurice Denis,French,Homme,1889.0,1899.0,France,"['Female Nudes', 'Women']",10.0
 436692.0,False,1953,True,Painting,John Hoppner,British,Homme,1796.0,1796.0,United Kingdom,"['Boys', 'Girls', 'Portraits']",0.0
 436621.0,False,1949,True,Painting,Frans Hals,Dutch,Homme,1636.0,1638.0,Netherlands,"['Men', 'Portraits']",2.0
@@ -92,13 +90,9 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 812918.0,True,2018,False,Painting,Peter Doig,British,Homme,2017.0,2017.0,United Kingdom,,0.0
 503625.0,True,1945,True,Harpsichord,,,Homme,1750.0,1800.0,Italy,"['Men', 'Hunting', 'Mermaids', 'Dogs', 'Landscapes']",50.0
 466070.0,True,1981,True,Missal; Manuscript leaf,,,Homme,1270.0,1280.0,France,"['Angels', 'Christ', 'Virgin Mary', 'Saint John the Evangelist', 'Crucifixion']",10.0
-466198.0,True,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Christ', 'Saints']",10.0
-466197.0,False,1991,True,Beatus; Bifolium,,,Homme,1175.0,1185.0,,"['Christ', 'Adoration of the Magi']",10.0
-194524.0,False,1918,True,Armorial tondo,della Robbia,,Homme,1520.0,1530.0,,"['Grapes', 'Coat of Arms', 'Lions']",10.0
 194620.0,False,1920,True,Harpsichord top,Il Poccetti,Italian,Homme,1585.0,1599.0,Italy,,14.0
 188000.0,False,1895,True,"Box, painting",Alexander James Strachan,British,Homme,1811.0,1812.0,United Kingdom,"['Portraits', 'Women']",1.0
 188005.0,False,1895,True,"Box, painting",British Painter,British,Homme,1832.0,1832.0,United Kingdom,"['Men', 'Portraits']",0.0
-198059.0,False,1938,False,"Box, painting","F. B., Switzerland",,Homme,1700.0,1899.0,,"['Animals', 'Men', 'Women']",199.0
 206166.0,False,1974,True,"Snuffbox, painting",Les Frères Souchay,Swiss,Homme,1780.0,1800.0,Switzerland,"['Portraits', 'Women']",20.0
 209241.0,False,1963,True,"Snuffbox cover, painting",German Painter,German,Homme,1730.0,1765.0,Germany,"['Kings', 'Portraits']",35.0
 436699.0,False,1914,False,Painting,Ferdinand Humbert,French,Homme,1871.0,1871.0,France,"['Men', 'Portraits']",0.0
@@ -109,7 +103,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 458964.0,False,1975,True,Painting,Goodhart Ducciesque Master,Italian,Homme,1315.0,1330.0,Italy,['Madonna and Child'],15.0
 459018.0,False,1975,True,Painting,Master of Marradi,Italian,Homme,1471.0,1535.0,Italy,"['Men', 'Women', 'Funerals']",64.0
 459014.0,False,1975,True,Painting,Neri di Bicci,Italian,Homme,1439.0,1491.0,Italy,"['Men', 'Fish', 'Angels']",52.0
-461185.0,False,1975,False,Painting,Pepe Romero,,Homme,1957.0,1957.0,,"['Mountains', 'Landscapes']",0.0
 461457.0,False,1975,True,Manuscript and illuminations,Cristoforo Cortese,Italian,Homme,1398.0,1410.0,Italy,"['Organs', 'Angels']",12.0
 461448.0,False,1975,True,Cutting from an antiphonary,Maestro Daddesco,Italian,Homme,1307.0,1318.0,Italy,"['Annunciation', 'Archangel Gabriel', 'Virgin Mary']",11.0
 461450.0,False,1975,True,Manuscript and illuminations,Francesco di Giorgio Martini,Italian,Homme,1467.0,1478.0,Italy,"['Saints', 'Men']",11.0
@@ -170,14 +163,9 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 459069.0,False,1975,True,Painting,David Teniers the Younger,Flemish,Homme,1650.0,1659.0,Belgium,"['Animals', 'Adam', 'Eve', 'Snakes']",9.0
 460647.0,False,1975,False,Painting,Armand Sinko,French,Homme,1950.0,1959.0,France,"['Pears', 'Still Life']",9.0
 461041.0,False,1975,False,Painting,Armand Sinko,French,Homme,1950.0,1959.0,France,"['Fish', 'Flowers', 'Still Life']",9.0
-460707.0,False,1975,True,Drawing,Unknown,,Homme,1830.0,1840.0,,['Ships'],10.0
-459348.0,False,1975,True,Drawing,Lievin Cruyl,,Homme,1672.0,1673.0,,"['Buildings', 'Obelisks', 'Cities']",1.0
-459349.0,False,1975,True,Drawing,Lievin Cruyl,,Homme,1670.0,1674.0,,"['Buildings', 'Cities']",4.0
 189433.0,False,1907,True,Overdoor,French Painter,French,Homme,1770.0,1790.0,France,"['Profiles', 'Women', 'Dogs', 'Flowers']",20.0
 189523.0,False,1907,True,Overdoor,Donatello,Italian,Homme,1770.0,1790.0,Italy,"['Children', 'Dancing']",20.0
 189530.0,False,1907,True,Overdoor,French Painter,French,Homme,1700.0,1799.0,France,"['Cupid', 'Dolphins']",99.0
-189536.0,False,1907,True,Overdoor,,,Homme,1770.0,1790.0,,"['Agriculture', 'Trees']",20.0
-189537.0,False,1907,True,Overdoor,,,Homme,1770.0,1790.0,,"['Garlands', 'Men', 'Women', 'Dogs']",20.0
 189522.0,False,1907,True,Overdoor,Donatello,Italian,Homme,1770.0,1790.0,Italy,"['Children', 'Dancing']",20.0
 189728.0,False,1907,True,Overdoors,French Painter,French,Homme,1770.0,1790.0,France,"['Cupid', 'Nymphs', 'Diana', 'Trees']",20.0
 189551.0,False,1907,True,Painting,French Painter,French,Homme,1700.0,1799.0,France,"['Galatea', 'Infants', 'Pygmalion']",99.0
@@ -190,27 +178,16 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 194942.0,False,1922,False,Door,Charles Fairfax Murray,British,Homme,1866.0,1876.0,United Kingdom,"['Doors', 'Men', 'Women']",10.0
 194941.0,False,1922,False,Door,Charles Fairfax Murray,British,Homme,1866.0,1876.0,United Kingdom,"['Women', 'Flowers']",10.0
 193994.0,False,1917,True,"Souvenir, painting",French Painter,French,Homme,1775.0,1795.0,France,"['Men', 'Portraits']",20.0
-193986.0,False,1917,True,Souvenir,C. De Roy,,Homme,1773.0,1774.0,,"['Portraits', 'Women']",1.0
-193921.0,False,1917,True,Souvenir,Nadine Vallin,,Femme,1772.0,1794.0,,"['Portraits', 'Women']",22.0
 193925.0,False,1917,True,Souvenir,Alexander Roslin,Swedish,Homme,1775.0,1781.0,Sweden,"['Men', 'Portraits']",6.0
-193958.0,False,1917,True,"Souvenir, painting",Jean-Pierre Mendouze,,Homme,1780.0,1781.0,,"['Men', 'Portraits']",1.0
 193948.0,False,1917,True,"Souvenir, painting",François Dumont,French,Homme,1776.0,1777.0,France,"['Portraits', 'Women']",1.0
-193960.0,False,1917,True,"Souvenir, painting",Joseph Kosinski,,Homme,1765.0,1785.0,,"['Kings', 'Portraits']",20.0
-193929.0,False,1917,True,"Souvenir, painting",Pierre-Denis Chaumont,,Homme,1780.0,1781.0,,"['Men', 'Portraits']",1.0
 193955.0,False,1917,True,"Souvenir, painting",French Painter,French,Homme,1778.0,1779.0,France,"['Men', 'Portraits']",1.0
 193950.0,False,1917,True,"Souvenir, painting",Louis Marie Sicardi,French,Homme,1700.0,1799.0,France,"['Men', 'Portraits']",99.0
-193863.0,False,1917,True,"Snuffbox, painting",Jean François Breton (or Lebreton),,Homme,1752.0,1753.0,,"['Children', 'Flowers']",1.0
-193844.0,False,1917,True,"Snuffbox, painting","F. J., Switzerland",,Homme,1785.0,1799.0,,"['Buildings', 'Trees', 'Farmers']",14.0
 193872.0,False,1917,False,"Snuffbox, painting",French Painter,French,Homme,1800.0,1899.0,France,"['Princesses', 'Portraits', 'Flowers']",99.0
-193836.0,False,1917,True,"Snuffbox, painting",David Lhonorey,,Homme,1782.0,1783.0,,"['Children', 'Portraits', 'Dogs']",1.0
-193733.0,False,1917,True,"Snuffbox, painting",P.M.C.,,Homme,1765.0,1775.0,,"['Infants', 'Men', 'Profiles']",10.0
 193810.0,False,1917,True,"Box, painting",Jean-Baptiste Jacques Augustin,French,Homme,1775.0,1781.0,France,"['Portraits', 'Women']",6.0
-193805.0,False,1917,True,"Snuffbox, painting",Mathieu Coiny fils,,Homme,1700.0,1899.0,,"['Interiors', 'Women', 'Dogs']",199.0
 193821.0,False,1917,True,"Snuffbox, painting",Les Frères Souchay,Swiss,Homme,1775.0,1785.0,Switzerland,"['Men', 'Women', 'Ships']",10.0
 193820.0,False,1917,True,"Box, painting",Pierre-Adolphe Hall,Swedish,Homme,1775.0,1776.0,Sweden,"['Girls', 'Portraits']",1.0
 193819.0,False,1917,True,"Box, painting",Johann Heinrich Hurter,Swiss,Homme,1765.0,1775.0,Switzerland,"['Portraits', 'Women', 'Flowers']",10.0
 469046.0,False,1896,True,Choir Book; Manuscript leaf,Bartolomeo di Domenico di Guido,Italian,Homme,1400.0,1599.0,Italy,"['Angels', 'Men', 'Donkeys', 'Jesus']",199.0
-461568.0,False,1975,True,Sketchbook,Unknown Artist,,Homme,1821.0,1875.0,,['Cities'],54.0
 459125.0,False,1975,True,Painting,Netherlandish,Netherlandish,Homme,1547.0,1553.0,Netherlands,"['Lamentation', 'Christ', 'Virgin Mary']",6.0
 14996.0,False,2006,True,"Painting, miniature",Jean Christophe Alexandre,American,Homme,1834.0,1834.0,Italy,"['Portraits', 'Women']",0.0
 14995.0,False,2006,True,"Painting, miniature",Jean Christophe Alexandre,American,Homme,1834.0,1834.0,Italy,"['Men', 'Portraits']",0.0
@@ -228,7 +205,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 10776.0,False,1895,True,Watercolor,Savinien Edme Dubourjal,French,Homme,1844.0,1847.0,France,"['Portraits', 'Women']",3.0
 10775.0,False,1895,True,Watercolor,Savinien Edme Dubourjal,French,Homme,1846.0,1846.0,France,"['Men', 'Portraits']",0.0
 10572.0,False,1984,True,Watercolor,Lefevre James Cranstone,British,Homme,1859.0,1860.0,England,"['Rivers', 'Hills', 'Boats']",1.0
-10907.0,False,1927,True,"Painting, miniature",George Freeman,,Homme,1847.0,1850.0,,"['Portraits', 'Women']",3.0
 13195.0,False,1970,True,Drawing,Carl Friedrich Heinrich Werner,German,Homme,1849.0,1849.0,Germany,"['Buildings', 'Lakes', 'Boats']",0.0
 13039.0,False,1911,True,Drawing,Thomas Bluget De Valdenuit,French,Homme,1797.0,1797.0,France,"['Men', 'Profiles', 'Portraits']",0.0
 14206.0,False,1940,True,Drawing,Thomas Bluget De Valdenuit,French,Homme,1794.0,1797.0,France,"['Men', 'Profiles', 'Portraits']",3.0
@@ -241,7 +217,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 196587.0,False,1930,True,Tondo,Mino da Fiesole (Mino di Giovanni),Italian,Homme,1800.0,1899.0,Italy,['Madonna and Child'],99.0
 14504.0,False,1950,True,Miniature,John Christian Rauschner,German,Homme,1797.0,1812.0,Germany,"['Boys', 'Men', 'Profiles']",15.0
 14505.0,False,1950,True,Miniature,John Christian Rauschner,German,Homme,1797.0,1812.0,Germany,"['Girls', 'Men', 'Profiles']",15.0
-15112.0,False,2006,False,"Painting, miniature",Medeschini,,Homme,1820.0,1830.0,,"['Men', 'Portraits']",10.0
 6787.0,False,1955,True,Miniature,John Christian Rauschner,German,Homme,1797.0,1812.0,Germany,"['Profiles', 'Women']",15.0
 6788.0,False,1950,True,Miniature,John Christian Rauschner,German,Homme,1797.0,1812.0,Germany,['Profiles'],15.0
 193817.0,False,1917,True,"Snuffbox, painting",Joseph Etienne Blerzy,French,Homme,1778.0,1779.0,France,"['Performance', 'Men', 'Women', 'Dancers', 'Puppets', 'Spectators']",1.0
@@ -253,19 +228,12 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 193839.0,False,1917,True,"Snuffbox, painting",Jean-Joseph Barrière,French,Homme,1769.0,1770.0,France,"['Children', 'Men', 'Women', 'Genre Scene']",1.0
 193849.0,False,1917,True,"Snuffbox, painting",Joseph Etienne Blerzy,French,Homme,1774.0,1775.0,France,"['Men', 'Women', 'Don Quixote']",1.0
 458969.0,False,1975,True,Pinnacle,Andrea Delitio,Italian,Homme,1440.0,1455.0,Italy,['Virgin Mary'],15.0
-200387.0,False,1948,True,"Snuffbox, painting",Dominique-François Poitreau,,Homme,1770.0,1771.0,,"['Human Figures', 'Boats']",1.0
-200409.0,False,1948,True,"Snuffbox, painting",Claude Perron,,Homme,1763.0,1764.0,,['Women'],1.0
-200415.0,False,1948,True,"Snuffbox, painting",Charles Ouizille,,Homme,1780.0,1781.0,,,1.0
 200432.0,False,1948,True,"Snuffbox, painting",Pierre François Drais,French,Homme,1770.0,1771.0,France,['Putti'],1.0
 469053.0,False,1896,True,Antiphonary; Manuscript leaf,Master of the Riccardiana Lactantius,,Homme,1450.0,1499.0,Italy,"['Christ', 'God the Father']",49.0
 469042.0,False,1896,True,Antiphonary; Manuscript leaf,Master of the Riccardiana Lactantius,,Homme,1450.0,1499.0,Italy,['Music'],49.0
-193860.0,False,1917,True,"Snuffbox, painting",Johann Wilhelm Keibel,,Homme,1815.0,1825.0,,"['Men', 'Trees', 'Working']",10.0
-188001.0,False,1895,True,"Box, painting",Jean-Baptiste Gillet,,Homme,1768.0,1775.0,,"['Princesses', 'Portraits']",7.0
 195530.0,False,1926,True,Screen,Antoine Watteau,French,Homme,1725.0,1750.0,France,"['Couples', 'Men', 'Women']",25.0
 205080.0,False,1968,True,Tester bed,Italian (Florentine) Painter,Italian,Homme,1585.0,1650.0,Italy,,65.0
-198058.0,False,1938,True,"Snuffbox, painting",Mathieu Coiny fils,,Homme,1757.0,1758.0,,"['Men', 'Women', 'Smoking', 'Drinking']",1.0
 459015.0,False,1975,True,Painting,Cosimo Rosselli,Italian,Homme,1487.0,1493.0,Italy,"['Madonna and Child', 'Saint John the Baptist']",6.0
-156567.0,False,2009,True,Fan,Debillemont,,Homme,1876.0,1899.0,,"['Women', 'Men']",23.0
 198950.0,False,1941,True,Cassone,Italian (Florentine?) Painter,Italian,Homme,1425.0,1450.0,Italy,"['Men', 'Women', 'Diana', 'Dogs']",25.0
 189707.0,False,1907,True,Panel,French Painter,French,Homme,1700.0,1799.0,France,"['Garlands', 'Putti', 'Wreaths']",99.0
 189528.0,False,1907,True,Overdoor,French Painter,French,Homme,1770.0,1790.0,France,"['Cupid', 'Nymphs', 'Flowers']",20.0
@@ -286,23 +254,15 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 207906.0,False,1990,True,Sewing casket,Balthasar Wigand,Austrian,Homme,1820.0,1830.0,Austria,"['Cities', 'Landscapes']",10.0
 189432.0,False,1907,True,Overdoor,French Painter,French,Homme,1770.0,1790.0,France,['Women'],20.0
 189535.0,False,1907,True,Panel,French Painter,French,Homme,1700.0,1799.0,France,"['Roses', 'Garlands', 'Fruit']",99.0
-189543.0,False,1907,True,Decorative Painting,,,Homme,18.0,18.0,,"['Chinoiserie', 'Grapes', 'Flowers', 'Boats']",0.0
 189526.0,False,1907,True,Bed canopy,French Painter,French,Homme,1725.0,1735.0,France,"['Garlands', 'Cupid']",10.0
 189727.0,False,1907,True,Painting,Willem van Leen,Dutch,Homme,1700.0,1799.0,Netherlands,"['Peaches', 'Grapes', 'Flowers', 'Still Life']",99.0
 189711.0,False,1907,True,Overdoor,French Painter,French,Homme,1700.0,1799.0,France,"['Garlands', 'Serpents', 'Putti']",99.0
 189710.0,False,1907,True,Overdoor,French Painter,French,Homme,1700.0,1799.0,France,"['Garlands', 'Triton']",99.0
 193823.0,False,1917,True,"Box, painting",French Painter,French,Homme,1785.0,1795.0,France,"['Portraits', 'Women']",10.0
-193924.0,False,1917,True,Souvenir,C. B.,,Homme,1764.0,1775.0,,"['Men', 'Portraits']",11.0
 15022.0,False,2006,True,"Painting, miniature",Dulieu du Chenevoux,,Homme,1785.0,1785.0,France,"['Men', 'Benjamin Franklin', 'Portraits']",0.0
 15000.0,False,2006,True,"Painting, miniature",Thomas E. Barratt,British,Homme,1835.0,1845.0,United Kingdom,"['Men', 'Portraits']",10.0
 15080.0,False,2006,True,"Painting, miniature",John Hazlitt,British,Homme,1767.0,1837.0,United Kingdom,"['Men', 'Portraits']",70.0
-15203.0,False,2006,True,"Painting, miniature",Anne Teakes,,Femme,1812.0,1827.0,,"['Portraits', 'Women']",15.0
-15204.0,False,2006,True,"Painting, miniature",William John Thomson,,Homme,1817.0,1817.0,,"['Portraits', 'Women']",0.0
-15205.0,False,2006,True,"Painting, miniature",William John Thomson,,Homme,1822.0,1822.0,,"['Portraits', 'Women']",0.0
 238017.0,False,1941,True,Cassone,Italian (Florentine?) Painter,Italian,Homme,1425.0,1450.0,Italy,"['Children', 'Men', 'Women', 'Horses']",25.0
-193854.0,False,1917,True,"Snuffbox, painting",Pierre-Nicolas Pleyard,,Homme,1765.0,1773.0,,"['Men', 'Landscapes', 'Horses']",8.0
-193901.0,False,1917,True,"Snuffbox, painting",I.I.H.,,Homme,1765.0,1775.0,,"['Men', 'Flowers', 'Horses']",10.0
-193825.0,False,1917,True,"Snuffbox, painting",J.D.,,Homme,1768.0,1769.0,,"['Animals', 'Hunting', 'Horses']",1.0
 156809.0,False,2009,True,Fan,Carl Gustav Klingstedt,Swedish,Homme,1715.0,1725.0,Sweden,"['Battles', 'Ships', 'Horses']",10.0
 459017.0,False,1975,True,Painting,Master of Marradi,Italian,Homme,1471.0,1535.0,Italy,"['Men', 'Women', 'Horses']",64.0
 461036.0,False,1975,True,Leaf from an evangelary,Southern Netherlands,Southern Netherlands,Homme,1480.0,1490.0,Netherlands,"['Horses', 'Cities', 'Christ']",10.0
@@ -497,10 +457,8 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 209278.0,False,1914,True,Ceiling panel,Pinturicchio,Italian,Homme,1504.0,1514.0,Italy,"['Men', 'Hunting', 'Boars', 'Dogs']",10.0
 209272.0,False,1914,True,Ceiling panel,Pinturicchio,Italian,Homme,1504.0,1514.0,Italy,"['Silenus', 'Bacchus', 'Plants']",10.0
 209274.0,False,1914,True,Ceiling panel,Pinturicchio,Italian,Homme,1504.0,1514.0,Italy,"['Hercules', 'Cows', 'Rams', 'Sheep']",10.0
-196981.0,False,1932,True,"Snuffbox, painting",Nicolas Marguerit,,Homme,1775.0,1776.0,,"['Portraits', 'Women']",1.0
 437888.0,False,1887,True,Painting,Horace Vernet,French,Homme,1820.0,1820.0,France,"['Men', 'Spectators', 'Horses']",0.0
 695495.0,False,2016,False,Painting,Eugène Boudin,French,Homme,1844.0,1898.0,France,"['Sky', 'Clouds']",54.0
-193862.0,False,1917,True,"Snuffbox, painting",Jean Georges (or George),,Homme,1763.0,1764.0,,"['Men', 'Profiles']",1.0
 193834.0,False,1917,True,"Snuffbox, painting",Pierre François Drais,French,Homme,1774.0,1775.0,France,"['Men', 'Women', 'Party', 'Crowd']",1.0
 193853.0,False,1917,True,"Snuffbox, painting",Jacques Joseph de Gault,French,Homme,1775.0,1847.0,France,"['Women', 'Dancing', 'Cupid', 'Trees']",72.0
 193855.0,False,1917,True,"Snuffbox, painting",Adrien Jean Maximilien Vachette,French,Homme,1798.0,1838.0,France,"['Battles', 'Kings', 'Louis XIV', 'Horses']",40.0
@@ -616,7 +574,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 438674.0,False,2003,False,Painting,Paul-Narcisse Salières,French,Homme,1848.0,1848.0,France,"['Men', 'Women', 'Working', 'Tools']",0.0
 437065.0,False,1888,True,"Painting, part of an altarpiece",Lippo Memmi (Filippo di Memmo),Italian,Homme,1325.0,1335.0,Italy,"['Swords', 'Saint Paul']",10.0
 435723.0,False,1932,True,Painting,Anthonie van Borssom,Dutch,Homme,1650.0,1655.0,Netherlands,"['Pigs', 'Women', 'Cows', 'Sheep']",5.0
-200411.0,False,1948,True,"Snuffbox, painting",Claude Héricourt,,Homme,1769.0,1770.0,,"['Portraits', 'Women']",1.0
 481486.0,False,1976,False,Painting,Alfred Munnings,British,Homme,1935.0,1935.0,United Kingdom,"['Jockeys', 'Horses', 'Human Figures']",0.0
 482058.0,False,1980,False,Painting,Maurice Utrillo,French,Homme,1910.0,1910.0,France,"['Buildings', 'Streets']",0.0
 482055.0,False,1980,False,Drawing,Léon Spilliaert,Belgian,Homme,1907.0,1907.0,Belgium,"['Men', 'Self-portraits']",0.0
@@ -655,7 +612,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 460987.0,False,1975,False,Painting,Raymond Legueult,French,Homme,1964.0,1964.0,France,"['Flowers', 'Still Life']",0.0
 460330.0,False,1975,False,Painting,Roger Bezombes,French,Homme,1933.0,1994.0,France,"['Music', 'Guitars']",61.0
 460996.0,False,1975,False,Painting,Albert André,French,Homme,1940.0,1945.0,France,"['Still Life', 'Bottles', 'Bread', 'Fruit']",5.0
-461292.0,False,1975,False,Painting,André Bauchant,,Homme,1949.0,1949.0,,"['Flowers', 'Landscapes']",0.0
 461325.0,False,1975,False,Painting,Emil Grau-Sala,Spanish (?),Homme,1959.0,1959.0,Spain,['Boats'],0.0
 460106.0,False,1975,False,Drawing,André-Dunoyer de Segonzac,French,Homme,1955.0,1960.0,France,"['Fruit', 'Bottles', 'Still Life']",5.0
 461663.0,False,1975,False,Painting,Willy Eisenschitz,German,Homme,1957.0,1957.0,Germany,"['Cities', 'Paris', 'Canals']",0.0
@@ -663,7 +619,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 461673.0,False,1975,False,Painting,Albert André,French,Homme,1911.0,1947.0,France,"['Fruit', 'Still Life', 'Pitchers']",36.0
 460107.0,False,1975,False,Drawing,André-Dunoyer de Segonzac,French,Homme,1959.0,1959.0,France,"['Fruit', 'Wine', 'Still Life']",0.0
 460420.0,False,1975,False,Painting,Albert André,French,Homme,1952.0,1953.0,France,"['Painting', 'Female Nudes', 'Easels', 'Interiors', 'Artists']",1.0
-461180.0,False,1975,False,Painting,Paul Ambille,,Homme,1945.0,1965.0,,"['Music', 'Pianos']",20.0
 461678.0,False,1975,False,Painting,George Rohner,French,Homme,1958.0,1958.0,France,['Still Life'],0.0
 461126.0,False,1975,False,Painting,Edouard Pignon,French,Homme,1956.0,1956.0,France,['Trees'],0.0
 460428.0,False,1975,False,Painting,Edouard Pignon,French,Homme,1955.0,1955.0,France,,0.0
@@ -687,7 +642,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 482265.0,False,1981,False,Painting,Duncan Grant,British,Homme,1916.0,1916.0,United Kingdom,['Coffeepots'],0.0
 482262.0,False,1981,False,Painting,Stanley Spencer,British,Homme,1947.0,1947.0,United Kingdom,"['Gardens', 'Flowers', 'Trees']",0.0
 482287.0,False,1981,False,Painting,Dimitrie Berea,"French, born Romania",Homme,1953.0,1953.0,Romania,"['Portraits', 'Women']",0.0
-198919.0,False,1941,True,Statuette,,,Homme,1800.0,1899.0,,['Madonna and Child'],99.0
 480930.0,False,1971,False,Painting,Emil Schumacher,German,Homme,1959.0,1959.0,Germany,,0.0
 481149.0,False,1973,False,Drawing,Jan Groth,Norwegian,Homme,1973.0,1973.0,Norway,['Abstraction'],0.0
 480513.0,False,1909,False,Painting,William Rothenstein,British,Homme,1898.0,1898.0,United Kingdom,"['Men', 'Self-portraits']",0.0
@@ -774,7 +728,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 458960.0,False,1975,True,Painting,Workshop of  Niccolò di Buonaccorso,Italian,Homme,1370.0,1388.0,Italy,"['Men', 'Women', 'Lamentation', 'Saints', 'Christ']",18.0
 459156.0,False,1975,False,Painting,Gustave Loiseau,French,Homme,1922.0,1922.0,France,"['Monuments', 'Cities']",0.0
 459064.0,False,1975,True,Triptych panel,Imitator of Netherlandish (Antwerp Mannerist) Painter,Netherlandish,Homme,1600.0,1699.0,Netherlands,"['Men', 'Madonna and Child', 'Adoration of the Magi']",99.0
-459091.0,False,1975,True,Painting,early 19th century painter,,Homme,1789.0,1790.0,,"['Military', 'Men', 'Portraits', 'Women', 'Family', 'Infants', 'Dogs']",1.0
 459155.0,False,1975,False,Painting,Gustave Loiseau,French,Homme,1911.0,1911.0,France,"['Houses', 'Trees', 'Winter', 'Snow']",0.0
 459154.0,False,1975,False,Painting,Gustave Loiseau,French,Homme,1925.0,1925.0,France,"['Mountains', 'Landscapes', 'Boats']",0.0
 459135.0,False,1975,True,Painting,Spinello Aretino (Spinello di Luca Spinelli),Italian,Homme,1388.0,1395.0,Italy,"['Soldiers', 'Saint Paul']",7.0
@@ -848,8 +801,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 437724.0,False,1932,True,Painting,Spanish Painter,Spanish,Homme,1430.0,1469.0,Spain,"['Madonna and Child', 'Saint Catherine', 'Saint Jerome']",39.0
 437608.0,False,1932,True,Painting fragment,Franciabigio (Francesco di Cristofano),Italian,Homme,1504.0,1514.0,Italy,['Madonna'],10.0
 437832.0,False,1917,True,Painting,Tommaso Fiorentino (Tommaso di Stefano Lunetti),Italian,Homme,1521.0,1521.0,Italy,"['Men', 'Portraits']",0.0
-193879.0,False,1917,True,"Snuffbox, painting",Jean Ducrollay,,Homme,1758.0,1759.0,,"['Infants', 'Men', 'Women', 'Genre Scene']",1.0
-193864.0,False,1917,True,"Snuffbox, painting",Jean Ducrollay,,Homme,1750.0,1750.0,,"['Cows', 'Pastoral', 'Human Figures']",0.0
 437913.0,False,1965,True,Painting fragment,Bartolomeo Vivarini,Italian,Homme,1465.0,1475.0,Italy,"['Reading', 'Saint Mark', 'Men']",10.0
 437968.0,False,1959,True,Painting,Francesco Zuccarelli,Italian,Homme,1722.0,1788.0,Italy,"['Fountains', 'Women', 'Landscapes', 'Genre Scene']",66.0
 437964.0,False,1988,True,Painting,Anders Zorn,Swedish,Homme,1894.0,1894.0,Sweden,"['Portraits', 'Women']",0.0
@@ -1085,7 +1036,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 440374.0,False,2009,False,Painting,Pierre Henri de Valenciennes or Circle,French,Homme,1785.0,1810.0,France,['Waterfalls'],25.0
 441111.0,False,2011,True,Painting,Michele Gordigiani,Italian,Homme,1864.0,1864.0,Italy,"['Portraits', 'Women']",0.0
 440376.0,False,2009,False,Painting,Pierre Henri de Valenciennes or Circle,French,Homme,1785.0,1810.0,France,['Trees'],25.0
-461188.0,False,1975,False,Painting,Yves Brayer,,Homme,1942.0,1942.0,,"['Dancers', 'Women', 'Ballet']",0.0
 482392.0,False,1981,False,Painting,Frank Bowling,British,Homme,1980.0,1980.0,United Kingdom,['Abstraction'],0.0
 632988.0,False,1980,False,Painting,Frank Bowling,British,Homme,1972.0,1972.0,United Kingdom,,0.0
 782307.0,False,2018,True,Painting,Sir Edwin Henry Landseer,British,Homme,1825.0,1835.0,United Kingdom,['Deer'],10.0
@@ -1112,7 +1062,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 441360.0,False,2017,True,Painting,Victor Eeckhout,Belgian,Homme,1841.0,1879.0,Belgium,"['Buildings', 'Crowd', 'Orientalist']",38.0
 685040.0,False,2015,True,Painting,Jean-Léon Gérôme,French,Homme,1887.0,1888.0,France,"['Portraits', 'Women', 'Orientalist']",1.0
 437754.0,False,1946,True,Painting,Alfred Stevens,Belgian,Homme,1874.0,1874.0,Belgium,['Women'],0.0
-856229.0,False,2021,False,Painting,Helen Hardin,,Homme,1981.0,1981.0,,,0.0
 655744.0,False,2014,True,Painting,Frederick Goodall,British,Homme,1847.0,1857.0,United Kingdom,"['Men', 'Portraits', 'Orientalist']",10.0
 489638.0,False,1967,False,Painting,Fernand Léger,French,Homme,1929.0,1929.0,France,"['Hands', 'Leaves', 'Still Life']",0.0
 495270.0,False,2007,False,Painting,Georg Baselitz,German,Homme,1982.0,1982.0,Germany,"['Eagles', 'Abstraction']",0.0
@@ -2145,62 +2094,11 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 483322.0,False,1984,False,Painting,Henri Matisse,French,Homme,1919.0,1919.0,France,"['Landscapes', 'Trees']",0.0
 894279.0,False,2023,False,Painting,Helene Schjerfbeck,Finnish,Homme,1920.0,1920.0,Finland,"['Portraits', 'Women']",0.0
 32838.0,False,1923,True,Manuscript leaf cutting perhaps from a breviary,Olivetan Master,Lombard,Homme,1425.0,1475.0,Italy,"['Men', 'Saints']",50.0
-32835.0,False,1923,True,Manuscript cutting,,,Homme,1400.0,1400.0,,"['Battles', 'Weapons']",0.0
-32833.0,False,1923,True,Manuscript cutting from an antiphonary,,,Homme,1350.0,1450.0,,"['Angels', 'Soldiers', 'Swords', 'Jesus']",100.0
-32836.0,False,1923,True,Manuscript cutting,,,Homme,1400.0,1400.0,,['David'],0.0
-32837.0,False,1923,True,Manuscript leaf,,,Homme,1390.0,1400.0,,"['Bearing the Cross', 'Christ']",10.0
-32834.0,False,1923,True,Manuscript cutting,,,Homme,1425.0,1475.0,,['Battles'],50.0
-32840.0,False,1923,True,Manuscript leaf cutting probably from a missal,,,Homme,1450.0,1500.0,,"['Men', 'Women']",50.0
 34018.0,False,1929,True,Painting,,,Homme,1525.0,1575.0,Germany,"['Portraits', 'Armor', 'Men']",50.0
 34020.0,False,1929,True,Painting,,,Homme,1600.0,1650.0,Spain,"['Portraits', 'Armor', 'Men']",50.0
-193432.0,False,1917,False,Snuffbox,,,Homme,1700.0,1899.0,,"['Infants', 'Men', 'Women']",199.0
-187999.0,False,1895,True,"Box, painting",,,Homme,1817.0,1817.0,,"['Women', 'Portraits']",0.0
-187997.0,False,1895,True,"Box, painting",,,Homme,1775.0,1785.0,,"['Portraits', 'Women']",10.0
-196717.0,False,1930,True,Mirror,,,Homme,1650.0,1700.0,,"['Portraits', 'Women', 'Mirrors']",50.0
-156106.0,False,2009,True,Fan,,,Homme,1728.0,1732.0,,"['Birds', 'Men', 'Women', 'Putti', 'Dogs']",4.0
-156212.0,False,2009,True,Fan,,,Homme,1751.0,1775.0,,"['Men', 'Women']",24.0
-156264.0,False,2009,True,Fan,,,Homme,1745.0,1755.0,,"['Men', 'Women', 'Dining']",10.0
-156269.0,False,2009,True,Fan,,,Homme,1700.0,1725.0,,"['Men', 'Cities', 'Women']",25.0
-156267.0,False,2009,True,Fan,,,Homme,1745.0,1755.0,,"['Children', 'Men', 'Women']",10.0
-156270.0,False,2009,True,Fan,,,Homme,1726.0,1750.0,,"['Animals', 'Women', 'Flowers']",24.0
-156296.0,False,2009,True,Fan,,,Homme,1700.0,1725.0,,"['Men', 'Women', 'Putti']",25.0
-156286.0,False,2009,True,Fan,,,Homme,1745.0,1755.0,,"['Men', 'Women', 'Dogs', 'Sheep']",10.0
-156425.0,False,2009,True,Fan,,,Homme,1751.0,1775.0,,"['Men', 'Women', 'Dancing']",24.0
-156397.0,False,2009,True,Fan,,,Homme,1851.0,1875.0,,"['Men', 'Women', 'Landscapes']",24.0
-156426.0,False,2009,True,Fan,,,Homme,1740.0,1760.0,,"['Men', 'Women', 'Flowers']",20.0
-156420.0,False,2009,True,Fan,,,Homme,1850.0,1870.0,,"['Women', 'Men', 'Dressing', 'Needlework']",20.0
-156509.0,False,2009,True,Fan,,,Homme,1730.0,1750.0,,"['Women', 'Putti', 'Mercury']",20.0
-156515.0,False,2009,True,Fan,,,Homme,1860.0,1870.0,,"['Women', 'Dogs', 'Boats']",10.0
-156514.0,False,2009,False,Fan,,,Homme,1890.0,1910.0,,['Women'],20.0
-156525.0,False,2009,False,Fan,,,Homme,1895.0,1905.0,,"['Birds', 'Insects', 'Flowers']",10.0
-156513.0,False,2009,True,Fan,,,Homme,1860.0,1870.0,,"['Men', 'Women', 'Dancing']",10.0
-198053.0,False,1938,True,"Snuffbox, painting",,,Homme,1772.0,1773.0,,"['Sleeping', 'Men', 'Dogs']",1.0
-186282.0,False,1883,True,Box,,,Homme,1765.0,1795.0,,"['Men', 'Portraits', 'Women']",30.0
-156576.0,False,2009,True,Fan,,,Homme,1860.0,1869.0,,"['Women', 'Men', 'Carriages']",9.0
-156579.0,False,2009,True,Fan,,,Homme,1855.0,1865.0,,"['Girls', 'Women']",10.0
-156580.0,False,2009,True,Fan,,,Homme,1855.0,1865.0,,"['Animals', 'Children', 'Men', 'Women']",10.0
-156574.0,False,2009,True,Fan,,,Homme,1751.0,1775.0,,"['Roses', 'Men', 'Women']",24.0
-156573.0,False,2009,True,Fan,,,Homme,1750.0,1770.0,,"['Men', 'Women', 'Putti']",20.0
-156612.0,False,2009,True,Fan,,,Homme,1776.0,1799.0,,"['Musical Instruments', 'Men', 'Women', 'Dogs']",23.0
-156804.0,False,2009,True,Fan,,,Homme,1870.0,1890.0,,"['Children', 'Men', 'Women']",20.0
-156805.0,False,2009,True,Fan,,,Homme,1870.0,1890.0,,"['Men', 'Women']",20.0
-156828.0,False,2009,False,Fan,,,Homme,1890.0,1910.0,,"['Women', 'Putti']",20.0
-156808.0,False,2009,True,Fan,,,Homme,1860.0,1880.0,,"['Men', 'Women']",20.0
-156570.0,False,2009,True,Fan,,,Homme,1855.0,1865.0,,"['Men', 'Women', 'Flowers']",10.0
-156575.0,False,2009,True,Fan,,,Homme,1840.0,1860.0,,"['Men', 'Women', 'Flutes', 'Pianos', 'Musicians']",20.0
-211320.0,False,1964,True,Figure,,,Homme,1700.0,1799.0,,"['Men', 'Shepherds']",99.0
-211316.0,False,1964,True,Figures,,,Homme,1700.0,1799.0,,"['Men', 'Shepherds']",99.0
-211318.0,False,1964,True,Figure,,,Homme,1700.0,1799.0,,"['Men', 'Elephants']",99.0
-211313.0,False,1964,True,Figure,,,Homme,1700.0,1799.0,,"['Shepherds', 'Angels']",99.0
-211317.0,False,1964,True,Figure,,,Homme,1700.0,1799.0,,"['Shepherds', 'Sleeping', 'Angels']",99.0
-211321.0,False,1964,True,Figures,,,Homme,1700.0,1799.0,,"['Men', 'Jesus', 'Virgin Mary', 'Circumcision', 'Joseph']",99.0
-211319.0,False,1964,True,Figures,,,Homme,1700.0,1799.0,,"['Men', 'Nativity', 'Angels']",99.0
 469050.0,False,1896,True,Antiphonary; Manuscript leaf,,,Homme,1300.0,1399.0,Italy,['Music'],99.0
 469049.0,False,1896,True,Choir Book; Manuscript leaf,,,Homme,1450.0,1499.0,Italy,['Music'],49.0
-475399.0,False,2003,True,Book of Hours; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
-460417.0,False,1975,True,Fan,,,Homme,1736.0,1770.0,,"['Infants', 'Men', 'Women', 'Horses']",34.0
 504222.0,False,,True,Portrait of the Father of Emilius Nicolai Scherr,,,Homme,1750.0,1799.0,Denmark,"['Men', 'Portraits']",49.0
-463527.0,False,1911,True,Stamp,,,Homme,1600.0,1799.0,,"['Saints', 'Angels']",199.0
 466731.0,False,1928,True,Gradual; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466714.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466730.0,False,1928,True,Gradual; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,"['Birds', 'Women', 'Music']",25.0
@@ -2235,108 +2133,44 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 466753.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466764.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466758.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466783.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466766.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466760.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466761.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466791.0,False,1928,True,Antiphonary; Bifolium,,,Homme,1300.0,1399.0,Italy,,99.0
 466750.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466771.0,False,1928,True,Choir Book; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466757.0,False,1928,True,Gradual; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466747.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466759.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466767.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466782.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466762.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
-466786.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466769.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466789.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466787.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
-466781.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466756.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466772.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1500.0,1599.0,,"['Men', 'Profiles', 'Music']",99.0
-466784.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,['Music'],99.0
 466746.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466763.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466754.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466779.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466751.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466768.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466780.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
-466785.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
-466775.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466793.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466770.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466725.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466745.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466713.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,['Music'],25.0
 466748.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-466776.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 466765.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,"['Birds', 'Music']",25.0
-466777.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,,99.0
 467416.0,False,1931,True,Choir Book; Manuscript cutting,,,Homme,1400.0,1499.0,Germany,"['Men', 'Saints']",99.0
 467516.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,"['Cannons', 'Children', 'Men', 'Jesus', 'Judas']",0.0
 467527.0,False,1932,True,Choir Book; Manuscript cutting,,,Homme,1500.0,1599.0,Germany,['Flowers'],99.0
 467520.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,"['Angels', 'Madonna and Child']",0.0
 467517.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,"['Saints', 'Women', 'Coat of Arms']",0.0
-467525.0,False,1932,True,Choir Book; Manuscript cutting,,,Homme,1400.0,1450.0,,"['Birds', 'Women', 'Monkeys']",50.0
 467522.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,['Christ'],0.0
-467513.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1475.0,1500.0,,"['Christ', 'Virgin Mary', 'Soldiers', 'Men']",25.0
-467526.0,False,1932,True,Missal; Manuscript cutting,,,Homme,1400.0,1499.0,,"['Men', 'Women']",99.0
-669491.0,False,1964,True,Figure,,,Homme,1700.0,1799.0,,"['Men', 'Saint Joseph']",99.0
-669490.0,False,1964,True,Figures,,,Homme,1700.0,1799.0,,['Madonna and Child'],99.0
-466624.0,False,1925,True,Psalter; Manuscript leaf,,,Homme,1225.0,1275.0,,"['Christ', 'Soldiers', 'Men']",50.0
-466622.0,False,1925,True,Psalter; Manuscript leaf,,,Homme,1225.0,1275.0,,"['Virgin Mary', 'Archangel Gabriel', 'Annunciation']",50.0
-466623.0,False,1925,True,Psalter; Manuscript leaf,,,Homme,1225.0,1275.0,,"['Christ', 'Virgin Mary', 'Crucifixion']",50.0
-467482.0,False,1932,True,Statuette,,,Homme,1400.0,1499.0,,['Saint John the Evangelist'],99.0
-81171.0,False,1976,True,Fan,,,Homme,1880.0,1900.0,,"['Birds', 'Women', 'Flowers']",20.0
-464452.0,False,1917,True,Plaque,,,Homme,1400.0,1499.0,,"['Angels', 'God the Father', 'Crucifixion', 'Saints']",99.0
 464336.0,False,1917,True,Shrine,,,Homme,1400.0,1499.0,Italy,,99.0
-473907.0,False,1925,True,Antiphonary; Manuscript,,,Homme,1736.0,1736.0,,,0.0
-466605.0,False,1925,True,Portfolio,,,Homme,1700.0,1799.0,,,99.0
-466604.0,False,1925,True,Breviary; Manuscript,,,Homme,1700.0,1799.0,,,99.0
-466588.0,False,1925,True,Breviary; Manuscript,,,Homme,1628.0,1628.0,,,0.0
-461196.0,False,1975,True,Fan,,,Homme,1760.0,1769.0,,"['Banquets', 'Fountains', 'Men', 'Women', 'Dining']",9.0
-208096.0,False,1993,True,Workbox,,,Homme,1825.0,1835.0,,"['Buildings', 'Landscapes', 'Trees', 'Boats']",10.0
-461163.0,False,1975,True,Drawing,,,Homme,1810.0,1840.0,,"['Landscapes', 'Cross']",30.0
 221884.0,False,1926,False,Weaving pattern,Jean François Bony,French,Homme,1800.0,1899.0,France,['Birds'],99.0
-189413.0,False,1907,True,Overdoor,,,Homme,1770.0,1790.0,,"['Putti', 'Globes']",20.0
-189414.0,False,1907,True,Overdoor,,,Homme,1770.0,1790.0,,"['Children', 'Mathematics']",20.0
-193976.0,False,1917,True,"Souvenir, painting",,,Homme,1781.0,1782.0,,"['Children', 'Women']",1.0
-193990.0,False,1917,True,"Souvenir, painting",,,Homme,1775.0,1785.0,,"['Portraits', 'Women']",10.0
-193982.0,False,1917,True,"Souvenir, painting",,,Homme,1779.0,1780.0,,"['Men', 'Portraits']",1.0
-193978.0,False,1917,True,"Souvenir, painting",,,Homme,1775.0,1776.0,,"['Men', 'Portraits', 'Women', 'Cupid']",1.0
-193908.0,False,1917,True,"Snuffbox, painting",,,Homme,1700.0,1799.0,,"['Men', 'Achilles', 'Putti']",99.0
-193943.0,False,1917,True,Souvenir,,,Homme,1775.0,1781.0,,"['Portraits', 'Women']",6.0
-193927.0,False,1917,True,Souvenir,,,Homme,1769.0,1797.0,,"['Birds', 'Cupid', 'Dogs', 'Trees', 'Vines']",28.0
-193973.0,False,1917,True,"Souvenir, painting",,,Homme,1780.0,1790.0,,"['Men', 'Portraits', 'Women']",10.0
-193966.0,False,1917,True,"Souvenir, painting",,,Homme,1774.0,1789.0,,"['Birds', 'Women', 'Dogs', 'Flowers']",15.0
-193942.0,False,1917,True,Souvenir,,,Homme,1783.0,1789.0,,"['Children', 'Women']",6.0
-193957.0,False,1917,True,"Souvenir, painting",,,Homme,1789.0,1789.0,,"['Portraits', 'Women']",0.0
-193962.0,False,1917,True,"Souvenir, painting",,,Homme,1780.0,1781.0,,['Cupid'],1.0
-193941.0,False,1917,True,Souvenir,,,Homme,1768.0,1779.0,,"['Portraits', 'Women']",11.0
-193967.0,False,1917,True,"Souvenir, painting",,,Homme,1700.0,1799.0,,"['Portraits', 'Women']",99.0
-193961.0,False,1917,True,"Souvenir, painting",,,Homme,1786.0,1789.0,,"['Birds', 'Watches', 'Women', 'Cupid']",3.0
-193877.0,False,1917,True,"Snuffbox, painting",,,Homme,1700.0,1799.0,,"['Men', 'Women', 'Cupid']",99.0
-193835.0,False,1917,True,"Snuffbox, painting",,,Homme,1700.0,1799.0,,"['Vegetables', 'Women']",99.0
-193919.0,False,1917,True,Souvenir,,,Homme,1774.0,1780.0,,"['Buildings', 'Men', 'Fishing', 'Ships']",6.0
-193890.0,False,1917,True,"Snuffbox, painting",,,Homme,1750.0,1775.0,,"['Infants', 'Women']",25.0
-193882.0,False,1917,True,"Snuffbox, painting",,,Homme,1760.0,1761.0,,"['Men', 'Women']",1.0
-193918.0,False,1917,True,Souvenir,,,Homme,1774.0,1780.0,,['Children'],6.0
-193922.0,False,1917,True,Souvenir,,,Homme,1768.0,1774.0,,['Cupid'],6.0
-193812.0,False,1917,True,"Box, painting",,,Homme,1768.0,1775.0,,"['Portraits', 'Women']",7.0
-193824.0,False,1917,True,"Box, painting",,,Homme,1700.0,1799.0,,"['Men', 'Women']",99.0
 467519.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,"['Saints', 'Men', 'Coat of Arms']",0.0
 466790.0,False,1928,True,Antiphonary; Bifolium,,,Homme,1300.0,1399.0,Italy,,99.0
-198245.0,False,1938,False,"Box, painting",,,Homme,1800.0,1938.0,,"['Portraits', 'Women']",138.0
 467420.0,False,1931,True,Gradual; Manuscript leaf,,,Homme,1300.0,1350.0,Italy,,50.0
 466723.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-157071.0,False,2009,True,Fan,,,Homme,1840.0,1870.0,,"['Men', 'Women', 'Boats']",30.0
 3971.0,False,1883,True,Painting,,,Homme,1800.0,1830.0,France,"['George Washington', 'Portraits', 'Men']",30.0
-15542.0,False,1980,False,"Painting, miniature",,,Homme,1850.0,1900.0,,"['Men', 'Portraits']",50.0
-15116.0,False,2006,True,"Painting, miniature",,,Homme,1815.0,1835.0,,"['Boys', 'Portraits']",20.0
-15057.0,False,2006,True,"Painting, miniature",,,Homme,1785.0,1795.0,,"['Portraits', 'Women']",10.0
-15215.0,False,2006,True,"Painting, miniature",,,Homme,1830.0,1845.0,,"['Portraits', 'Women']",15.0
 15278.0,False,2006,True,"Painting, miniature",,,Homme,1805.0,1810.0,England,"['Men', 'Portraits']",5.0
 4972.0,False,1883,True,"Painting, miniature",,,Homme,1775.0,1883.0,France,"['Marquis de Lafayette', 'Men', 'Portraits']",108.0
 4970.0,False,1883,True,"Painting, miniature",,,Homme,1775.0,1883.0,France,"['Marquis de Lafayette', 'Men', 'Portraits']",108.0
@@ -2346,10 +2180,7 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 12873.0,False,1924,True,Painting,,,Homme,1776.0,1776.0,England,"['Men', 'Ships', 'Portraits']",0.0
 12921.0,False,1946,True,"Painting, miniature",,,Homme,1750.0,1750.0,England,"['Men', 'Portraits']",0.0
 12920.0,False,1924,True,Painting,,,Homme,1770.0,1800.0,England,"['Men', 'Portraits']",30.0
-12918.0,False,1941,True,"Painting, miniature",,,Homme,1700.0,1700.0,,"['Men', 'Portraits']",0.0
 12895.0,False,1924,True,Painting,,,Homme,1797.0,1797.0,England,"['Men', 'George Washington', 'Portraits']",0.0
-14414.0,False,1940,True,"Painting, miniature",,,Homme,1760.0,1760.0,,"['Men', 'Portraits']",0.0
-12864.0,False,1941,True,"Painting, miniature",,,Homme,1700.0,1730.0,,"['Men', 'Portraits']",30.0
 5896.0,False,1883,True,Painting,,,Homme,1770.0,1800.0,England,"['George Washington', 'Profiles']",30.0
 472.0,False,1883,True,Painting,,,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
 483.0,False,1883,True,Painting,,,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
@@ -2361,79 +2192,32 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 470.0,False,1883,True,Painting,,,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
 904.0,False,1883,True,"Painting, miniature",,,Homme,1770.0,1800.0,France,"['Men', 'Portraits', 'Marquis de Lafayette']",30.0
 2330.0,False,1883,True,"Painting, miniature",,,Homme,1770.0,1800.0,France,"['Men', 'Profiles', 'Portraits', 'Marquis de Lafayette']",30.0
-467392.0,False,1930,True,Medallion,,,Homme,1600.0,1699.0,,"['Angels', 'Saints', 'God the Father']",99.0
-467371.0,False,1930,True,Plaque,,,Homme,1450.0,1499.0,,"['Men', 'Women']",49.0
-467389.0,False,1930,True,Shell fragment,,,Homme,1500.0,1599.0,,['Women'],99.0
-467390.0,False,1930,True,Shell fragment,,,Homme,1500.0,1599.0,,"['Infants', 'Women']",99.0
-464337.0,False,1917,True,Statuette,,,Homme,1500.0,1599.0,,,99.0
-200446.0,False,1948,True,"Souvenir, painting",,,Homme,1773.0,1775.0,,"['Cupid', 'Women']",2.0
 469038.0,False,1895,True,Missal; Manuscript,,,Homme,1472.0,1472.0,Germany,"['Christ', 'Crucifixion']",0.0
 469041.0,False,1896,True,Manuscript leaf,,,Homme,1300.0,1399.0,Italy,['Men'],99.0
 467422.0,False,1931,True,Bible; Manuscript,,,Homme,1235.0,1235.0,France,,0.0
 467681.0,False,1939,True,Breviary; Manuscript leaf,,,Homme,1345.0,1355.0,France,"['Christ', 'Crucifixion']",10.0
-466774.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1499.0,,['Madonna and Child'],99.0
 466778.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466718.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466749.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466755.0,False,1928,True,Antiphonary; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
 466726.0,False,1928,True,Gradual; Manuscript leaf,,,Homme,1425.0,1450.0,Germany,,25.0
-468976.0,False,1890,True,Missal; Manuscript leaf,,,Homme,1440.0,1460.0,,,20.0
-468977.0,False,1890,True,Missal; Manuscript leaf,,,Homme,1475.0,1499.0,,"['Men', 'Harps']",24.0
 468978.0,False,1890,True,Gradual; Bifolium,,,Homme,1450.0,1499.0,Germany,"['Virgin Mary', 'Birds', 'Putti', 'Apostles']",49.0
-189529.0,False,1907,True,Window embrasure panel,,,Homme,1700.0,1799.0,,"['Garlands', 'Female Nudes', 'Leda', 'Swans', 'Flowers']",99.0
 32839.0,False,1923,True,Manuscript leaf cutting from a choir book,,,Homme,1450.0,1500.0,Italy,['Women'],50.0
-32947.0,False,1923,True,Manuscript leaf,,,Homme,1250.0,1300.0,,['Christ'],50.0
-201693.0,False,1953,True,Plate,,,Homme,1530.0,1565.0,,"['Female Nudes', 'Orpheus', 'Musical Instruments', 'Eurydice', 'Male Nudes']",35.0
-193945.0,False,1917,True,Souvenir,,,Homme,1781.0,1782.0,,,1.0
-209524.0,False,1924,True,Fan,Marta Palomba,,Homme,1700.0,1723.0,,"['Animals', 'Men', 'Women']",23.0
-156578.0,False,2009,True,Fan,,,Homme,1876.0,1899.0,,"['Men', 'Women', 'Putti']",23.0
-189547.0,False,1907,True,Upholstery panel,,,Homme,1740.0,1750.0,,"['Chinoiserie', 'Boys', 'Women']",10.0
-467524.0,False,1932,True,Book of Hours; Manuscript cutting,,,Homme,1450.0,1499.0,,"['Men', 'Crucifixion']",49.0
 467418.0,False,1931,True,Antiphonary; Manuscript cutting,,,Homme,1350.0,1350.0,Italy,"['Angels', 'Men']",0.0
-467523.0,False,1932,True,Book of Hours; Manuscript cutting,,,Homme,1450.0,1499.0,,"['Descent from the Cross', 'Christ', 'Virgin Mary', 'Men']",49.0
-193956.0,False,1917,True,"Souvenir, painting",,,Homme,1782.0,1783.0,,"['Portraits', 'Women']",1.0
 15021.0,False,2006,True,"Painting, miniature",,,Homme,1785.0,1785.0,France,"['Men', 'Benjamin Franklin', 'Portraits']",0.0
 466703.0,False,1928,True,Missal; Manuscript cutting,,,Homme,1395.0,1405.0,France,"['Christ', 'Virgin Mary', 'Crucifixion', 'Saint John']",10.0
-156268.0,False,2009,True,Fan,,,Homme,1751.0,1775.0,,"['Men', 'Women']",24.0
-156265.0,False,2009,True,Fan,,,Homme,1715.0,1725.0,,"['Men', 'Women']",10.0
 471849.0,False,1965,True,Statuette,,,Homme,1420.0,1420.0,Germany,"['Men', 'Saint John the Evangelist']",0.0
-468423.0,False,1953,True,Manuscript leaf,,,Homme,1450.0,1475.0,,"['Men', 'Women']",25.0
-468477.0,False,1955,True,Gradual; Manuscript leaf,,,Homme,1519.0,1529.0,,['David'],10.0
-468478.0,False,1955,True,Missal; Manuscript leaf,,,Homme,1390.0,1390.0,,['Christ'],0.0
 468479.0,False,1955,True,Manuscript cutting,,,Homme,1480.0,1480.0,Italy,"['Saints', 'Men']",0.0
 468570.0,False,1960,True,Choir Book; Manuscript cutting,,,Homme,1500.0,1525.0,Italy,['Cross'],25.0
-464365.0,False,1917,True,Statuette,,,Homme,1400.0,1599.0,,"['Horses', 'Churches', 'Dragons']",199.0
-468591.0,False,1962,True,Book of Hours; Manuscript leaf,,,Homme,1400.0,1499.0,,"['Horses', 'Christ', 'Crucifixion']",99.0
-193878.0,False,1917,True,"Snuffbox, painting",,,Homme,1760.0,1762.0,,"['Hunting', 'Dogs', 'Pigs', 'Flowers', 'Horses']",2.0
-156807.0,False,2009,True,Fan,,,Homme,1708.0,1712.0,,"['Battles', 'Men', 'Horses']",4.0
-188002.0,False,1895,True,"Snuffbox, painting",,,Homme,1785.0,1799.0,,"['Battles', 'Flowers', 'Horses']",14.0
-211315.0,False,1964,True,Figures,,,Homme,1700.0,1799.0,,"['Men', 'Shepherds', 'Horses']",99.0
-463905.0,False,1916,True,Bellows,,,Homme,1500.0,1525.0,,"['Men', 'Horses']",25.0
 12899.0,False,1924,True,Painting,,,Homme,1775.0,1775.0,England,"['Men', 'Horses', 'George Washington', 'Portraits']",0.0
-205194.0,False,1970,True,Dummy board,,,Homme,1685.0,1695.0,,"['Boys', 'Cats']",10.0
-464441.0,False,1917,True,Prayer bead,,,Homme,1500.0,1525.0,,"['Madonna and Child', 'Mary Magdalene', 'Saints', 'Virgin Mary']",25.0
-464440.0,False,1917,True,Prayer bead,,,Homme,1500.0,1525.0,,"['Jesus', 'Virgin Mary']",25.0
-464445.0,False,1917,True,Medallion,,,Homme,1500.0,1525.0,,"['Ahasuerus', 'Men', 'Dining']",25.0
 472538.0,False,1999,True,Bible; Manuscript cutting,,,Homme,1175.0,1195.0,France,['Bible'],20.0
-479572.0,False,2011,True,Manuscript leaf,,,Homme,1360.0,1380.0,,['Architecture'],20.0
-479573.0,False,2011,True,Manuscript leaf,,,Homme,1360.0,1380.0,,['Tabernacles'],20.0
-479575.0,False,2011,True,Manuscript leaf,,,Homme,1360.0,1380.0,,,20.0
-479576.0,False,2011,True,Manuscript leaf,,,Homme,1360.0,1380.0,,,20.0
-478979.0,False,2010,True,Manuscript leaf,,,Homme,1300.0,1330.0,,"['Saint Christopher', 'Christ']",30.0
-237070.0,False,1970,True,Dummy board,,,Homme,1685.0,1695.0,,['Girls'],10.0
 483956.0,False,1985,False,Design,Margarete Willers,German,Femme,1920.0,1929.0,Germany,,9.0
 484070.0,False,1985,False,Design,Gunta Stölzl,German,Femme,1922.0,1932.0,Germany,['Abstraction'],10.0
 484092.0,False,1985,False,Drawing,Gertrud Preiswerk,German,Femme,1900.0,1985.0,Germany,,85.0
 484104.0,False,1985,False,Design,Gunta Stölzl,German,Femme,1919.0,1925.0,Germany,,6.0
-193644.0,False,1917,True,Casket,,,Homme,1575.0,1600.0,,"['Women', 'Female Nudes']",25.0
 486701.0,False,1996,False,Drawing,Jean Dupas,French,Homme,1933.0,1933.0,France,"['Poseidon', 'Ships']",0.0
 486367.0,False,1994,False,Drawing,Patrick Heron,British,Homme,1978.0,1978.0,United Kingdom,,0.0
-464362.0,False,1917,True,Sculpture,,,Homme,1375.0,1399.0,,,24.0
 853644.0,False,2021,True,Manuscript Leaf,,,Homme,1360.0,1380.0,France,,20.0
-467514.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1475.0,1500.0,,"['Christ', 'Virgin Mary', 'Cats', 'Elephants', 'Birds', 'Camels', 'Dogs', 'Lions', 'Lamentation', 'Owls']",25.0
-460341.0,False,1975,True,Frame,,,Homme,1900.0,1910.0,,,10.0
-461446.0,False,1975,True,Frame,,,Homme,1630.0,1640.0,,,10.0
-211314.0,False,1964,True,Figures,,,Homme,1700.0,1799.0,,['Men'],99.0
 34016.0,False,1929,True,Two painted panels,,,Homme,1455.0,1505.0,Germany,"['Armor', 'Dragons', 'Saint Sebastian', 'Men', 'Saint George']",50.0
 483727.0,False,1984,False,Drawing,Dagobert Peche,Austrian,Homme,1922.0,1922.0,Austria,['Abstraction'],0.0
 483706.0,False,1984,False,Drawing,Dagobert Peche,Austrian,Homme,1922.0,1922.0,Austria,,0.0
@@ -2455,57 +2239,28 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 483989.0,False,1985,False,Drawing,Hilde Reindl,German,Femme,1900.0,1985.0,Germany,,85.0
 483990.0,False,1985,False,Drawing,Hilde Reindl,German,Femme,1900.0,1985.0,Germany,,85.0
 484072.0,False,1985,False,Drawing,Léna Bergner,German,Femme,1932.0,1932.0,Germany,['Architecture'],0.0
-189538.0,False,1907,True,Overdoor,,,Homme,1770.0,1790.0,,"['Garlands', 'Cupid']",20.0
 821020.0,False,2019,False,Chair,Joseph Walsh,Irish,Homme,2015.0,2017.0,Ireland,,2.0
 476336.0,False,1931,True,Manuscript,,,Homme,1483.0,1483.0,Italy,"['Saint Jerome', 'Insignia']",0.0
-468939.0,False,1889,True,Antiphonary; Manuscript,,,Homme,1400.0,1599.0,,,199.0
 486240.0,False,1993,False,Drawing,Charles Rennie Mackintosh,"British, Scottish",Homme,1915.0,1915.0,United Kingdom,['Flowers'],0.0
 486257.0,False,1993,False,Drawing,Charles Rennie Mackintosh,"British, Scottish",Homme,1920.0,1920.0,United Kingdom,['Peonies'],0.0
-466095.0,False,1982,True,Pax,,,Homme,1100.0,1199.0,,"['Christ', 'Crucifixion']",99.0
-466193.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Trumpets']",10.0
-466195.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Musical Instruments', 'Lambs', 'Cross']",10.0
 466201.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,Spain,"['Christ', 'Doves']",10.0
-466190.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Lambs', 'Cross']",10.0
-466202.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,['Angels'],10.0
-466194.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,,10.0
-466200.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Saint John the Evangelist']",10.0
-466199.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Saint John the Evangelist']",10.0
-466192.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Christ', 'Fish']",10.0
-466204.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Eagles', 'Trumpets']",10.0
-466203.0,False,1991,True,Beatus; Manuscript leaf,,,Homme,1175.0,1185.0,,"['Angels', 'Trumpets', 'Trees']",10.0
 467417.0,False,1931,True,Gradual; Manuscript cutting,,,Homme,1440.0,1460.0,Italy,"['Men', 'Churches', 'Saints']",20.0
-466804.0,False,1928,True,Relief,,,Homme,1220.0,1272.0,,['Fish'],52.0
 467763.0,False,1941,True,Gradual; Manuscript,,,Homme,1310.0,1315.0,Italy,['Music'],5.0
 467775.0,False,1941,True,Statuette,,,Homme,1395.0,1425.0,France,"['Madonna and Child', 'Nursing']",30.0
 467745.0,False,1941,True,Statuette,,,Homme,1245.0,1305.0,France,['Sculpture'],60.0
 466241.0,False,1992,True,Missal; Manuscript leaf,,,Homme,1290.0,1290.0,France,,0.0
-466281.0,False,1994,True,Bible; Manuscript leaf,,,Homme,1280.0,1300.0,,['Bible'],20.0
 466277.0,False,1994,True,Manuscript leaf,,,Homme,1320.0,1342.0,Italy,"['Women', 'Men', 'Saint Francis', 'Birds']",22.0
 466297.0,False,1997,True,Bible; Manuscript,,,Homme,1250.0,1275.0,France,,25.0
-466366.0,False,1922,True,Psalter; Manuscript,,,Homme,1200.0,1299.0,,,99.0
-466371.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1265.0,1275.0,,"['Christ', 'Judas', 'Apostles', 'Agony in the Garden']",10.0
-466369.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,['Christ'],99.0
 465985.0,False,1976,True,Pendant,,,Homme,1400.0,1499.0,Germany,"['Virgin Mary', 'Doves']",99.0
-466043.0,False,1978,True,Game piece,,,Homme,1200.0,1250.0,,['Kings'],50.0
 463551.0,False,1912,True,Altar shrine,,,Homme,1475.0,1500.0,Germany,"['Women', 'Madonna and Child', 'Saints', 'Saint John the Baptist', 'Saint Sebastian']",25.0
-463906.0,False,1916,True,Bellows,,,Homme,1500.0,1525.0,,,25.0
 501790.0,False,1889,True,Harpsichord,,,Homme,1501.0,1700.0,Italy,"['Angels', 'Men']",199.0
 501797.0,False,1889,True,Harpsichord,,,Homme,1630.0,1680.0,Italy,,50.0
-479483.0,False,2011,True,Manuscript leaf,,,Homme,1360.0,1380.0,,['Curtains'],20.0
-479712.0,False,2013,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1410.0,,['Christ'],10.0
 472322.0,False,1925,True,Altarpiece,,,Homme,1350.0,1399.0,Spain,"['Dogs', 'Angels', 'Birds', 'Adam', 'Eve', 'Saints']",49.0
 472539.0,False,1999,True,Bible; Manuscript cutting,,,Homme,1175.0,1195.0,France,,20.0
-473473.0,False,1939,True,Manuscript leaf,,,Homme,1400.0,1400.0,,['Madonna and Child'],0.0
-471966.0,False,1974,True,Panel,,,Homme,1475.0,1500.0,,"['Angels', 'Christ', 'Monks', 'Cross']",25.0
-471731.0,False,1955,False,Crucifix,,,Homme,1875.0,1955.0,,"['Christ', 'Cross', 'Crucifixion']",80.0
-471737.0,False,1956,True,Statuette,,,Homme,1450.0,1499.0,,"['Angels', 'Monkeys', 'Women', 'Books', 'Demons', 'Saints']",49.0
-471728.0,False,1955,True,Statuette base,,,Homme,1470.0,1480.0,,"['Serpents', 'Fruit', 'Eve']",10.0
-471852.0,False,1966,True,Writing tablet,,,Homme,1300.0,1399.0,,"['Angels', 'Christ', 'Saints', 'Annunciation', 'Virgin Mary', 'Resurrection', 'Cross', 'Crucifixion']",99.0
 471830.0,False,1957,True,Fresco,,,Homme,1100.0,1150.0,Spain,"['Elephants', 'Castles']",50.0
 471826.0,False,1957,True,Fresco,,,Homme,1100.0,1150.0,Spain,"['Dogs', 'Horses', 'Men', 'Hunting']",50.0
 471828.0,False,1957,True,Fresco,,,Homme,1100.0,1150.0,Spain,"['Animals', 'Shields', 'Men']",50.0
 471831.0,False,1957,True,Fresco,,,Homme,1100.0,1150.0,Spain,['Eagles'],50.0
-471823.0,False,1957,False,Altar frontal,,,Homme,1900.0,1957.0,,"['Angels', 'Christ', 'Apostles']",57.0
 471827.0,False,1957,True,Fresco,,,Homme,1100.0,1150.0,Spain,"['Bow and Arrow', 'Men', 'Hunting', 'Deer']",50.0
 471829.0,False,1957,True,Fresco,,,Homme,1100.0,1150.0,Spain,['Bears'],50.0
 469963.0,False,1998,True,Book of Hours; Manuscript illumination,,,Homme,1400.0,1400.0,France,"['Angels', 'Virgin Mary', 'Jesus', 'Last Judgement']",0.0
@@ -2513,44 +2268,24 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 470122.0,False,1998,True,Bible; Manuscript leaf,,,Homme,1295.0,1305.0,France,"['Men', 'Saint Paul']",10.0
 468476.0,False,1955,True,Manuscript leaf,,,Homme,1300.0,1300.0,Italy,,0.0
 471223.0,False,1938,True,Painting,,,Homme,1473.0,1483.0,Spain,"['Dragons', 'Madonna and Child', 'Saint Anne', 'Crucifixion', 'Saints']",10.0
-468679.0,False,1964,True,Statuette,,,Homme,1495.0,1505.0,,,10.0
 468975.0,False,1890,True,Antiphonary; Manuscript leaf,,,Homme,1400.0,1400.0,Italy,"['Visitation', 'Virgin Mary', 'Men', 'Saints']",0.0
 468949.0,False,1890,True,Altarpiece,,,Homme,1548.0,1548.0,Germany,"['Infants', 'Men', 'Women']",0.0
 469045.0,False,1896,True,Antiphonary; Manuscript leaf,,,Homme,1500.0,1525.0,Italy,"['Cross', 'Crucifixion', 'Saints']",25.0
 469051.0,False,1896,True,Antiphonary; Manuscript leaf,,,Homme,1250.0,1260.0,Italy,['Music'],10.0
-468629.0,False,1964,True,Staff head,,,Homme,1800.0,1900.0,,['Lions'],100.0
 32832.0,False,1923,True,Manuscript cutting from an antiphonary,,,Homme,1335.0,1395.0,Italy,"['Horses', 'Battles', 'Soldiers', 'Swords', 'Men']",60.0
-195032.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Men', 'Profiles']",15.0
-195027.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Heads', 'Profiles', 'Women']",15.0
-195026.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Profiles', 'Women']",15.0
-195033.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Profiles', 'Women']",15.0
-195028.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Men', 'Profiles']",15.0
-195030.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Profiles', 'Women']",15.0
-195029.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Heads', 'Girls', 'Profiles']",15.0
-195031.0,False,1923,True,Frieze panel,,,Homme,1500.0,1515.0,,"['Men', 'Profiles']",15.0
 471425.0,False,1950,True,Fresco,,,Homme,1275.0,1325.0,Spain,"['Saint John the Evangelist', 'Men']",50.0
 469828.0,False,,True,Missal; Manuscript,,,Homme,1400.0,1499.0,Germany,"['Christ', 'Virgin Mary', 'Crucifixion']",99.0
-474852.0,False,2002,True,Genealogy; Manuscript rotulus,,,Homme,1230.0,1230.0,,,0.0
 476564.0,False,2005,True,Gradual; Manuscript leaf,,,Homme,1270.0,1280.0,Italy,['Saint Peter'],10.0
 467515.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,"['Men', 'Griffins', 'Coat of Arms']",0.0
 469824.0,False,,True,Bible; Manuscript,,,Homme,1250.0,1250.0,France,,0.0
-247111.0,False,1904,True,"Grave stele, painted",,,Homme,-250.0,-200.0,,"['Soldiers', 'Boys']",50.0
-247109.0,False,1904,True,"Grave stele, painted",,,Homme,-250.0,-200.0,,"['Soldiers', 'Girls', 'Men']",50.0
 32830.0,False,1923,True,Manuscript cutting from a Dominican antiphonary,,,Homme,1350.0,1400.0,Italy,"['Saint Peter', 'Men']",50.0
 32831.0,False,1923,True,Manuscript cutting from an antiphonary,,,Homme,1300.0,1350.0,Italy,"['Human Figures', 'Prisons', 'Saint Peter']",50.0
 34019.0,False,1929,True,Painting,,,Homme,1550.0,1600.0,Italy,"['Portraits', 'Armor', 'Men']",50.0
 35655.0,False,1929,True,Painting,,,Homme,1625.0,1650.0,Italy,"['Horses', 'Armor', 'Men', 'Portraits']",25.0
 258115.0,False,1912,False,"""Shield frieze"" Fresco",Emile Gilliéron,Swiss,Homme,-1330.0,-1250.0,Switzerland,,80.0
 258116.0,False,1912,False,Fresco: Ornamental frieze,Emile Gilliéron,Swiss,Homme,-1405.0,-1200.0,Switzerland,,205.0
-464329.0,False,1917,False,Manuscript leaf,,,Homme,1900.0,1900.0,,"['Castles', 'Tents', 'Ships', 'Maps']",0.0
-466374.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,,99.0
-466372.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,"['Saint Paul', 'Saint Peter', 'Zodiac', 'Calendars']",99.0
-466367.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,,99.0
 466373.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1250.0,1270.0,England,,20.0
-466368.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,,99.0
-466375.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,,99.0
 466370.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1250.0,1270.0,England,"['Last Supper', 'Christ', 'Apostles']",20.0
-466376.0,False,1922,True,Psalter; Manuscript leaf,,,Homme,1200.0,1299.0,,,99.0
 484081.0,False,1985,False,Drawings,Gunta Stölzl,German,Femme,1919.0,1927.0,Germany,['Abstraction'],8.0
 22609.0,False,1916,True,Miniature Italian-style armor for man and horse,Granger LeBlanc,French,Homme,1835.0,1885.0,France,,50.0
 258137.0,False,1927,False,"""Ladies in Blue"" Fresco",Emile Gilliéron,Swiss,Homme,-1530.0,-1450.0,Switzerland,['Women'],80.0
@@ -2558,7 +2293,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 467518.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,"['Saints', 'Shells']",0.0
 467521.0,False,1932,True,Book of Hours; Manuscript leaf,,,Homme,1500.0,1500.0,Netherlands,['Saints'],0.0
 468941.0,False,1889,True,Book of Hours; Manuscript,Gilles Hardouyn,French,Homme,1518.0,1521.0,France,,3.0
-15280.0,False,2006,False,"Painting, miniature",De Majo,,Homme,1800.0,1850.0,,,50.0
 209259.0,False,1914,False,Ceiling panel,Pinturicchio,Italian,Homme,1504.0,1514.0,Italy,"['Garlands', 'Cupid']",10.0
 490242.0,False,1998,False,Drawing,Carl-Frederik Reutersward,Swedish,Homme,1984.0,1984.0,Sweden,,0.0
 490248.0,False,1999,False,Painting,Stephen Mangan,British,Homme,1998.0,1998.0,United Kingdom,,0.0
@@ -2591,7 +2325,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 32220.0,False,1932,False,Model of wheellock pistol,,,Homme,1551.0,1600.0,Germany,,49.0
 32327.0,False,1932,False,Model of percussion gun with accessories,,,Homme,1801.0,1900.0,Germany,,99.0
 459042.0,False,1975,True,Painting,Antonio del Massaro da Viterbo,Italian,Homme,1440.0,1450.0,Italy,"['Jesus', 'Dogs', 'Saints', 'Angels', 'Virgin Mary']",10.0
-458965.0,False,1975,True,Painting,,,Homme,1445.0,1455.0,,"['Crucifixion', 'Christ']",10.0
 459013.0,False,1975,True,Painting,Neri di Bicci,Italian,Homme,1460.0,1467.0,Italy,"['Boys', 'Angels']",7.0
 461007.0,False,1975,True,Miniature,Gerard David,Netherlandish,Homme,1507.0,1513.0,Netherlands,"['Angels', 'Virgin Mary', 'Annunciation', 'Beds']",6.0
 207312.0,False,1982,True,Painting,Antonio Zucchi,Italian,Homme,1767.0,1777.0,Italy,"['Women', 'Dancing', 'Cupid', 'Nymphs']",10.0
@@ -2602,15 +2335,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 189552.0,False,1907,True,Panel,Piat Joseph Sauvage,Flemish,Homme,1700.0,1799.0,Belgium,"['Horns', 'Putti']",99.0
 189545.0,False,1907,True,Overdoor,Piat Joseph Sauvage,Flemish,Homme,1770.0,1790.0,Belgium,"['Children', 'Men', 'Mothers', 'Women']",20.0
 189656.0,False,1907,True,Sketch,Joseph Marie Vien,French,Homme,1700.0,1799.0,France,"['Women', 'Cupid']",99.0
-193993.0,False,1917,True,"Souvenir, painting",Gabriel Lebidois,,Homme,1785.0,1786.0,,"['Portraits', 'Women']",1.0
-193985.0,False,1917,True,"Souvenir, painting",Pierre-André Barbier,,Homme,1778.0,1779.0,,"['Men', 'Portraits']",1.0
-193992.0,False,1917,True,"Souvenir, painting",Gabriel Lebidois,,Homme,1777.0,1788.0,,"['Birds', 'Women', 'Putti']",11.0
-193926.0,False,1917,True,"Souvenir, painting",Thomas-François Merlin,,Homme,1775.0,1776.0,,"['Men', 'Portraits']",1.0
-193951.0,False,1917,True,"Souvenir, painting",Barthélemy Pillieux,,Homme,1780.0,1781.0,,"['Birds', 'Women']",1.0
-193959.0,False,1917,True,"Souvenir, painting",Louis Cousin,,Homme,1774.0,1775.0,,['Women'],1.0
-193838.0,False,1917,True,"Snuffbox, painting",P.M.C.,,Homme,1785.0,1795.0,,"['Kings', 'Portraits']",10.0
-193846.0,False,1917,True,"Snuffbox, painting",Jean-Lambert Payen,,Homme,1761.0,1762.0,,"['Men', 'Women', 'Drinking', 'Genre Scene']",1.0
-193920.0,False,1917,True,Souvenir,Jean-Pierre Mendouze,,Homme,1787.0,1788.0,,"['Portraits', 'Women']",1.0
 15056.0,False,2006,True,"Painting, miniature",Joseph Siffred Duplessis,French,Homme,1794.0,1794.0,France,"['Men', 'Benjamin Franklin', 'Portraits']",0.0
 15081.0,False,2006,True,"Painting, miniature",John Hazlitt,British,Homme,1767.0,1837.0,United Kingdom,"['Men', 'Portraits']",70.0
 471.0,False,1883,True,Painting,Jean-Baptiste Nini,Italian,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
@@ -2618,11 +2342,9 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 485.0,False,1883,True,Painting,H. Sanford,,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
 468.0,False,1883,False,Painting,Jacques Thouron,,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
 469.0,False,1883,False,Painting,Jacques Thouron,,Homme,1776.0,1883.0,France,"['Benjamin Franklin', 'Men', 'Portraits']",107.0
-237840.0,False,1907,True,Panel,Jean -Siméon Rousseau de la Rottière,,Homme,1781.0,1781.0,,,0.0
 370926.0,False,1918,False,Book,Giovanni Boccaccio,Italian,Homme,1900.0,1900.0,Italy,,0.0
 200403.0,False,1948,True,"Box, painting",Joseph Etienne Blerzy,French,Homme,1785.0,1799.0,France,['Dogs'],14.0
 193996.0,False,1917,True,Souvenir,Henri Jean Douté,French,Homme,1773.0,1774.0,France,"['Portraits', 'Women']",1.0
-200433.0,False,1948,True,"Snuffbox, painting",Barthélemy Pillieux,,Homme,1781.0,1781.0,,"['Women', 'Theseus']",0.0
 185934.0,False,1880,True,Painting,Giovanni da Udine (Giovanni dei Ricamatori),Italian,Homme,1400.0,1599.0,Italy,['Women'],199.0
 185933.0,False,1880,True,Painting,Giovanni da Udine (Giovanni dei Ricamatori),Italian,Homme,1400.0,1599.0,Italy,['Human Figures'],199.0
 209335.0,False,1895,True,Box,Charles Jagger,British,Homme,1785.0,1799.0,United Kingdom,"['George Washington', 'Portraits']",14.0
@@ -2685,7 +2407,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 437830.0,False,1932,True,Painting,Titian,Italian,Homme,1508.0,1576.0,Italy,"['Men', 'Portraits']",68.0
 437910.0,False,1965,True,Painting,Antonio Vivarini,Italian,Homme,1440.0,1449.0,Italy,['Saint Jerome'],9.0
 196983.0,False,1932,True,"Snuffbox, painting",Georg Christian Seiptius,Danish,Homme,1775.0,1805.0,Denmark,"['Men', 'Portraits']",30.0
-189712.0,False,1907,True,Panel,Jean -Siméon Rousseau de la Rottière,,Homme,1781.0,1781.0,,"['Garlands', 'Boys', 'Men', 'Women']",0.0
 194949.0,False,1922,True,Panel,Antoine Watteau,French,Homme,1725.0,1750.0,France,"['Garlands', 'Men', 'Women']",25.0
 194950.0,False,1922,True,Panel,Antoine Watteau,French,Homme,1725.0,1750.0,France,"['Fruit', 'Men', 'Women', 'Trees', 'Ladders']",25.0
 194951.0,False,1922,True,Panel,Antoine Watteau,French,Homme,1725.0,1750.0,France,"['Men', 'Horses', 'Leaves']",25.0
@@ -2703,8 +2424,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 437494.0,False,1907,True,Painting,Franz Wolfgang Rohrich,German,Homme,1807.0,1834.0,Germany,"['Swords', 'Men', 'Portraits']",27.0
 437886.0,False,1948,True,Painting,Joseph Vernet,French,Homme,1770.0,1799.0,France,"['Harbors', 'Men', 'Fishing', 'Boats']",29.0
 894715.0,False,2023,False,Toy musket,,,Homme,1550.0,1650.0,England,,100.0
-189755.0,False,1907,True,Decorative panel,Le Riche,,Homme,1700.0,1799.0,,"['Human Figures', 'Wreaths']",99.0
-189756.0,False,1907,True,Decorative panel,Le Riche,,Homme,1700.0,1799.0,,"['Lyres', 'Women', 'Flowers']",99.0
 189555.0,False,1907,True,Overdoor,Piat Joseph Sauvage,Flemish,Homme,1770.0,1790.0,Belgium,"['Playing', 'Cupid']",20.0
 189556.0,False,1907,True,Overdoor,Piat Joseph Sauvage,Flemish,Homme,1770.0,1790.0,Belgium,"['Putti', 'Playing']",20.0
 437255.0,False,1941,True,Painting,Mirabello Cavalori,Italian,Homme,1566.0,1566.0,Italy,"['Men', 'Portraits', 'Knights']",0.0
@@ -2811,7 +2530,6 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 436046.0,False,1871,True,Painting,Lucas Cranach the Elder,German,Homme,1532.0,1533.0,Germany,"['Men', 'Portraits']",1.0
 436628.0,False,1871,True,Painting,Frans Hals,Dutch,Homme,1625.0,1649.0,Netherlands,"['Portraits', 'Women', 'Owls']",24.0
 437454.0,False,1906,True,Painting,Sir Joshua Reynolds,British,Homme,1782.0,1792.0,United Kingdom,"['Portraits', 'Women']",10.0
-460599.0,False,1975,False,Painting,Cristóbal Ruiz,,Homme,1900.0,1969.0,,['Landscapes'],69.0
 350431.0,False,1974,False,Book,Michel George-Michel,French,Homme,1929.0,1929.0,France,,0.0
 24850.0,False,1965,False,Miniature armor,,,Homme,1595.0,1645.0,Italy,,50.0
 24851.0,False,1965,False,Miniature armor,,,Homme,1620.0,1620.0,Italy,,0.0
@@ -2856,4 +2574,3 @@ objectID,isHighlight,accessionYear,isPublicDomain,objectName,artistDisplayName,a
 15115.0,False,2006,True,"Painting, miniature",Edward Miles,British,Homme,1752.0,1828.0,United Kingdom,"['Men', 'Portraits']",76.0
 15114.0,False,2006,True,"Painting, miniature",Edward Miles,British,Homme,1752.0,1828.0,United Kingdom,"['Men', 'Portraits']",76.0
 492401.0,False,1987,False,,Guido Heigl,German,Homme,1920.0,1920.0,Germany,,0.0
-256179.0,False,1993,False,"Kylix fragment, tondo",Onesimos,,Homme,-510.0,-500.0,,,10.0
