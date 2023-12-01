@@ -55,6 +55,6 @@ python3 collecte.py && cd shiny; shiny run --reload
 Lancer seulement le tableau de bord :
 
 ```bash
-ch shiny
+cd shiny
 shiny run --reload
 ```
